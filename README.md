@@ -1,26 +1,11 @@
 
-
-<!--
-**iurymanhaes/iurymanhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi guys👋
 My name is **Iury Manhães**, I have a degree in Analysis and Systems Development 🧠,  passionate about technology  👨🏼‍💻 😍
-- 🌱 I’m currently learning/practicing **HTML , CSS , JavaScript and React JS**.  And in the near future, some JS framework.
+- 🌱 I’m currently learning/practicing **HTML , CSS , JavaScript and React JS**
 - I am passionate about solving problems and learning. Always open to new challenges 🖥️
 - 📍 From Rio de Janeiro  🇧🇷🌎
 - Front-End developer at Atlantic Bank
+- 
 Find me here 👉🏼 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iurymanhaes/)](https://www.instagram.com/iurymanhaes/)
 				  
  
