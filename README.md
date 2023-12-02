@@ -1,6 +1,3 @@
-
-# Sobre Mim
-
 Olá! 👋 Sou um desenvolvedor front-end com mais ou menos 3 anos de experiência, apaixonado por criar interfaces dinâmicas e funcionais. Minha jornada inclui contribuições significativas em projetos diversos, sempre focado no aprimoramento contínuo.
 
 ## Habilidades Técnicas
